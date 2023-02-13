@@ -1,3 +1,5 @@
 ###
 #somthing...
 .env
+node_modules
+build/
